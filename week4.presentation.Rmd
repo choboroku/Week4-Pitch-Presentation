@@ -1,0 +1,44 @@
+---
+title: "Week 4 Assignment"
+author: "A. Lam" 
+date: 09/16/2020
+output: ioslides_presentation
+always_allow_html: yes
+---
+
+## Introduction
+ 
+A Shiny app to display the quantile of a given stock in a time window
+is shown. In this project, Shopify stock (SHOP) is used as example. 
+
+In this special circumstance (COVID-19), many stocks had 
+experienced significant surges that brought the attention of many 
+analysts around the world, and created a unique opportunity for many to make profit. 
+
+The source code of the Shiny app is located at:
+
+## The Shiny App
+
+The Shiny App posted in GitHub consists of two R codes: server.R and ui.R. 
+The repository also includes both codes in one single code (week4.shiny.R).
+Open that code in R Studio, and press the Run App button.  The app should
+appear nicely. 
+
+In the app, move the sidebar to the right and see the evolution of the stock
+price at a given time window. It also displays the quantile of the price indicating
+how volatile the stock is.
+
+## The Dataset
+
+The dataset was obtained in Yahoo Finance. The source code posted in Github 
+provides the link. The dataset needs to be processed to be used in the app.
+For instance, the date needs to be converted in decimal date by using the 
+R library lubridate.
+
+## Tips and Conclusion 
+
+As we can observe, Shopify stock experienced a huge increase in its value and the
+tendency seems to increase as long as the lockdowns and working from home policies are
+in place due to COVID-19. Thus, a lot of opportunities are out there. 
+
+As tip, stocks to watch are The Trade Desk (TTD) and Zoom Communication (ZM). 
