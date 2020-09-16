@@ -15,8 +15,8 @@ In this special circumstance (COVID-19), many stocks had
 experienced significant surges that brought the attention of many 
 analysts around the world, and created a unique opportunity for many to make profit. 
 
-The source code of the Shiny app is posted in [Github]
-(https://github.com/choboroku/Week4-Pitch-Presentation)
+The source code of the Shiny app is posted in Github:
+https://github.com/choboroku/Week4-Pitch-Presentation
 
 ## The Shiny App
 
